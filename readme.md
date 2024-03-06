@@ -12,7 +12,8 @@ PDF Invoice Extractor is a Python tool for extracting invoice data from PDF file
 ## Installation
 
 1. Clone the repository:
+   https://github.com/N-93/Invoice_Amount_Extraction_from_pdf.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
 cd Invoice_Amount_Extraction_from_pdf
